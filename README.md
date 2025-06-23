@@ -46,7 +46,7 @@ This cloud-based application was developed as a Capstone Project for CST-452. It
 
 3. **Configure `application.properties`:**
    ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/orders-app
+   spring.datasource.url=jdbc:mysql://localhost:3306/eventsapp
    spring.datasource.username=root
    spring.datasource.password=chucho11J!
    spring.jpa.hibernate.ddl-auto=update
